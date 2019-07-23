@@ -1,0 +1,21 @@
+HTTP/2 200
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+
+[
+   {
+      "id":1,
+      "user_id":1,
+      "product":"test-product",
+      "organisation":"test-organisation",
+      "server":"test-server",
+      "domain":"test-domain",
+      "key":"test-key",
+      "kind":"test-kind",
+      "state":"test-state",
+      "expire_at":"2019-07-25T10:26:23.000Z",
+      "created_at":"2019-07-23T10:27:30.000Z",
+      "updated_at":"2019-07-23T10:27:30.000Z"
+   }
+]

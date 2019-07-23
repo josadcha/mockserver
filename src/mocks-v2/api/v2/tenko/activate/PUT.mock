@@ -1,0 +1,9 @@
+HTTP/2 200
+Content-Type: application/json; charset=utf-8
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+
+{
+  "token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb21haW4iOiJhcHAubG9jYWwiLCJsaWNlbnNlIjoiN2YyNmVmZDVhM2YzOTM2MjdjNGM3MTU0NDE1ZDdiZjM1NTgzNTNiNDgzZTVlYWFmNGI3MDZmNTA2MTQ3YTIwMSIsImlhdCI6MTU2MDkzNjM0MSwiZXhwIjoxNTYxMDIyNzQxfQ.Mz_F2vN27-3XWLdk3iV_PuYCc9kcVmUJowPYAaO9v7xY_H18BqB2MosrHwSp16pXrgNP2xTl-VKzgjukHEsP1xXRon3HqdDsVc3WYu1yn2ZBHpQ3q5ULTjeFjUmeqyhwaJCvdLqF9uFLP6cpWdfFD4CSa2VkS5MXvufYsXmVIQesAOYHb4HVQlFJJidGBCJn0JR8K8bqpsP6DBETH61KTOYttE2w43Z-5uvkmLp60K9GMDGfIfmHE0ttUgIOApRjSlkQTt6qSvzS3UNx8Bp-NT7JJfhzwSxAFRz1VgHkTWXMTR5-ggOyJ3eXgDkp6QouD94VMv7TjHm0mq99hlluKw"
+}
