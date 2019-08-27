@@ -1,0 +1,104 @@
+HTTP/2 201
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+Access-Control-Expose-Headers: total
+Total: 5
+
+[
+    {
+        "id": "1",
+        "currency": "btc",
+        "amount": 2303,
+        "fee": 0,
+        "blockchain_txid": "blockchain_txid",
+        "confirmations": 0,
+        "state": "active",
+        "created_at": "2019-06-03T13:46:16+02:00",
+        "updated_at": "2019-06-07T11:37:35+02:00",
+        "member": "email@heliostech.fr",
+        "uid": 0,
+        "address": "0x123aeas123aesewc123",
+        "txout": 0,
+        "block_number": 0,
+        "type": "coin",
+        "tid": "1212",
+        "spread": ""
+    },
+    {
+        "id": "2",
+        "currency": "btc",
+        "amount": 2303,
+        "fee": 0,
+        "blockchain_txid": "blockchain_txid",
+        "confirmations": 0,
+        "state": "active",
+        "created_at": "2019-06-03T13:46:16+02:00",
+        "updated_at": "2019-06-07T11:37:35+02:00",
+        "member": "email@heliostech.fr",
+        "uid": 0,
+        "address": "0x123aeas123aesewc123",
+        "txout": 0,
+        "block_number": 0,
+        "type": "coin",
+        "tid": "1212",
+        "spread": ""
+    },
+    {
+        "id": "3",
+        "currency": "btc",
+        "amount": 2303,
+        "fee": 0,
+        "blockchain_txid": "blockchain_txid",
+        "confirmations": 0,
+        "state": "active",
+        "created_at": "2019-06-03T13:46:16+02:00",
+        "updated_at": "2019-06-07T11:37:35+02:00",
+        "member": "email@heliostech.fr",
+        "uid": 0,
+        "address": "0x123aeas123aesewc123",
+        "txout": 0,
+        "block_number": 0,
+        "type": "coin",
+        "tid": "1212",
+        "spread": ""
+    },
+    {
+        "id": "4",
+        "currency": "btc",
+        "amount": 2303,
+        "fee": 0,
+        "blockchain_txid": "blockchain_txid",
+        "confirmations": 0,
+        "state": "active",
+        "created_at": "2019-06-03T13:46:16+02:00",
+        "updated_at": "2019-06-07T11:37:35+02:00",
+        "member": "email@heliostech.fr",
+        "uid": 0,
+        "address": "0x123aeas123aesewc123",
+        "txout": 0,
+        "block_number": 0,
+        "type": "coin",
+        "tid": "1212",
+        "spread": ""
+    },
+    {
+        "id": "5",
+        "currency": "btc",
+        "amount": 2303,
+        "fee": 0,
+        "blockchain_txid": "blockchain_txid",
+        "confirmations": 0,
+        "state": "active",
+        "created_at": "2019-06-03T13:46:16+02:00",
+        "updated_at": "2019-06-07T11:37:35+02:00",
+        "member": "email@heliostech.fr",
+        "uid": 0,
+        "address": "0x123aeas123aesewc123",
+        "txout": 0,
+        "block_number": 0,
+        "type": "coin",
+        "tid": "1212",
+        "spread": ""
+    }
+]
