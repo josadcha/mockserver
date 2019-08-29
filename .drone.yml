@@ -18,38 +18,15 @@ steps:
       - git push --tags authenticated-origin feature/peatio-admin
       - git describe --tags $(git rev-list --tags --max-count=1) > .tags
     when:
-      branch:
-        - feature/peatio-admin
       event:
         - push
 
-  - name: push
-    image: plugins/docker
+  - name: "Build container"
+    image: plugins/gcr
     settings:
-      repo: rubykube/mockserver
-      username:
-        from_secret: mockserver_docker_username
-      password:
-        from_secret: mockserver_docker_password
+      repo: gcr.io/helios-stage/mockserver
+      json_key:
+        from_secret: openware_gcp_creds_base64
     when:
-      branch:
-        - feature/peatio-admin
-      event:
-        - push
-
-  - name: deploy
-    image: rubykube/mock-cloud:v0.0.1
-    environment:
-      WEBHOOK_JWT_SECRET:
-        from_secret: mockserver_webhook_secret
-      WEBHOOK_URI:
-        from_secret: mockserver_webhook_uri
-    commands:
-      - export latest_image=rubykube/mockserver:$(cat .tags)
-      - cd /home/app
-      - bundle exec rake payload:send[$latest_image,$WEBHOOK_URI]
-    when:
-      branch:
-        - feature/peatio-admin
       event:
         - push
