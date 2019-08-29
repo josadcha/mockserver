@@ -24,7 +24,7 @@ steps:
   - name: "Build container"
     image: plugins/gcr
     settings:
-      repo: gcr.io/helios-stage/mockserver
+      repo: gcr.io/helios-stage/mock-stage
       json_key:
         from_secret: openware_gcp_creds_base64
     when:
