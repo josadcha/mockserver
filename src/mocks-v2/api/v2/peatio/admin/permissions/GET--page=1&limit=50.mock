@@ -12,7 +12,7 @@ Total: 50
         "role": "superadmin",
         "verb": "ALL",
         "path": "api/v2",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -22,7 +22,7 @@ Total: 50
         "role": "superadmin",
         "verb": "ALL",
         "path": "admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -32,7 +32,7 @@ Total: 50
         "role": "superadmin",
         "verb": "GET",
         "path": "assets",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -42,7 +42,7 @@ Total: 50
         "role": "superadmin",
         "verb": "GET",
         "path": "api/v2/ranger",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -52,7 +52,7 @@ Total: 50
         "role": "superadmin",
         "verb": "POST",
         "path": "admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -62,7 +62,7 @@ Total: 50
         "role": "superadmin",
         "verb": "PUT",
         "path": "admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -72,7 +72,7 @@ Total: 50
         "role": "superadmin",
         "verb": "DELETE",
         "path": "admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -82,7 +82,7 @@ Total: 50
         "role": "superadmin",
         "verb": "POST",
         "path": "api/v2/",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -92,7 +92,7 @@ Total: 50
         "role": "superadmin",
         "verb": "PUT",
         "path": "api/v2/",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -102,7 +102,7 @@ Total: 50
         "role": "superadmin",
         "verb": "DELETE",
         "path": "api/v2/",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -112,7 +112,7 @@ Total: 50
         "role": "admin",
         "verb": "ALL",
         "path": "api/v2",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -122,7 +122,7 @@ Total: 50
         "role": "admin",
         "verb": "ALL",
         "path": "admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -132,7 +132,7 @@ Total: 50
         "role": "admin",
         "verb": "GET",
         "path": "assets",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -142,7 +142,7 @@ Total: 50
         "role": "admin",
         "verb": "GET",
         "path": "api/v2/ranger",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -152,7 +152,7 @@ Total: 50
         "role": "admin",
         "verb": "ALL",
         "path": "api/v2/barong/admin/permissions",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -162,7 +162,7 @@ Total: 50
         "role": "admin",
         "verb": "ALL",
         "path": "api/v2/barong/admin/activities/admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -172,7 +172,7 @@ Total: 50
         "role": "admin",
         "verb": "POST",
         "path": "admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -182,7 +182,7 @@ Total: 50
         "role": "admin",
         "verb": "PUT",
         "path": "admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -192,7 +192,7 @@ Total: 50
         "role": "admin",
         "verb": "DELETE",
         "path": "admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -202,7 +202,7 @@ Total: 50
         "role": "admin",
         "verb": "POST",
         "path": "api/v2/",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -212,7 +212,7 @@ Total: 50
         "role": "admin",
         "verb": "PUT",
         "path": "api/v2/",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -222,7 +222,7 @@ Total: 50
         "role": "admin",
         "verb": "DELETE",
         "path": "api/v2/",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -232,7 +232,7 @@ Total: 50
         "role": "accountant",
         "verb": "GET",
         "path": "admin/deposits",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -242,7 +242,7 @@ Total: 50
         "role": "accountant",
         "verb": "GET",
         "path": "admin/withdraws",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -252,7 +252,7 @@ Total: 50
         "role": "accountant",
         "verb": "GET",
         "path": "admin/members",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -262,7 +262,7 @@ Total: 50
         "role": "accountant",
         "verb": "GET",
         "path": "admin/operations",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -272,7 +272,7 @@ Total: 50
         "role": "accountant",
         "verb": "GET",
         "path": "admin/balance_sheet",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -282,7 +282,7 @@ Total: 50
         "role": "accountant",
         "verb": "GET",
         "path": "admin/income_statement",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -292,7 +292,7 @@ Total: 50
         "role": "accountant",
         "verb": "GET",
         "path": "assets",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -302,7 +302,7 @@ Total: 50
         "role": "accountant",
         "verb": "GET",
         "path": "admin/deposits/usd",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -312,7 +312,7 @@ Total: 50
         "role": "accountant",
         "verb": "POST",
         "path": "admin/deposits/usd",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -322,7 +322,7 @@ Total: 50
         "role": "accountant",
         "verb": "GET",
         "path": "admin/deposits/fth",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -332,7 +332,7 @@ Total: 50
         "role": "accountant",
         "verb": "POST",
         "path": "admin/deposits/fth",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -342,7 +342,7 @@ Total: 50
         "role": "accountant",
         "verb": "GET",
         "path": "api/v2/barong/admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -352,7 +352,7 @@ Total: 50
         "role": "accountant",
         "verb": "PUT",
         "path": "api/v2/barong/admin/users",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -362,7 +362,7 @@ Total: 50
         "role": "accountant",
         "verb": "PUT",
         "path": "api/v2/barong/admin/users/labels",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -372,7 +372,7 @@ Total: 50
         "role": "accountant",
         "verb": "POST",
         "path": "api/v2/barong/admin/users/update",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -382,7 +382,7 @@ Total: 50
         "role": "accountant",
         "verb": "POST",
         "path": "api/v2/barong/admin/users/labels/update",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -392,7 +392,7 @@ Total: 50
         "role": "accountant",
         "verb": "ALL",
         "path": "api/v2/barong/admin/permissions",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -402,7 +402,7 @@ Total: 50
         "role": "accountant",
         "verb": "ALL",
         "path": "api/v2/barong/admin/activities/admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -412,7 +412,7 @@ Total: 50
         "role": "accountant",
         "verb": "POST",
         "path": "admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -422,7 +422,7 @@ Total: 50
         "role": "accountant",
         "verb": "PUT",
         "path": "admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -432,7 +432,7 @@ Total: 50
         "role": "accountant",
         "verb": "DELETE",
         "path": "admin",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -442,7 +442,7 @@ Total: 50
         "role": "accountant",
         "verb": "POST",
         "path": "api/v2/",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:09.000Z",
         "updated_at": "2019-07-11T14:22:09.000Z"
     },
@@ -452,7 +452,7 @@ Total: 50
         "role": "accountant",
         "verb": "PUT",
         "path": "api/v2/",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:10.000Z",
         "updated_at": "2019-07-11T14:22:10.000Z"
     },
@@ -462,7 +462,7 @@ Total: 50
         "role": "accountant",
         "verb": "DELETE",
         "path": "api/v2/",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:10.000Z",
         "updated_at": "2019-07-11T14:22:10.000Z"
     },
@@ -472,7 +472,7 @@ Total: 50
         "role": "accountant",
         "verb": "ALL",
         "path": "api/v2/peatio/account",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:10.000Z",
         "updated_at": "2019-07-11T14:22:10.000Z"
     },
@@ -482,7 +482,7 @@ Total: 50
         "role": "accountant",
         "verb": "ALL",
         "path": "api/v2/peatio/market",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:10.000Z",
         "updated_at": "2019-07-11T14:22:10.000Z"
     },
@@ -492,7 +492,7 @@ Total: 50
         "role": "accountant",
         "verb": "ALL",
         "path": "api/v2/barong/resource",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:10.000Z",
         "updated_at": "2019-07-11T14:22:10.000Z"
     },
@@ -502,7 +502,7 @@ Total: 50
         "role": "accountant",
         "verb": "GET",
         "path": "api/v2/ranger",
-        "topic": null,
+        "topic": "Update",
         "created_at": "2019-07-11T14:22:10.000Z",
         "updated_at": "2019-07-11T14:22:10.000Z"
     }
