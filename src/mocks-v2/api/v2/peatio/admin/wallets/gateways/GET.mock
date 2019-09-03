@@ -7,8 +7,8 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
         "bitcoind",
         "litecoind",
         "rippled",
-        "bitcoincashd"
+        "bitcoincashd",
         "geth",
-        "parity"
+        "parity",
 ]
 
