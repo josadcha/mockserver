@@ -8,5 +8,5 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
     "verb": "get",
     "path": "api/v2/ranger/",
     "action": "accept",
-    "id": "107"
+    "id": "152"
 }
