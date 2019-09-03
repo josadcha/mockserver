@@ -9,6 +9,6 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
         "rippled",
         "bitcoincashd",
         "geth",
-        "parity",
+        "parity"
 ]
 

@@ -12,9 +12,7 @@ Total: 36
     "currency": "tbtc",
     "address": "05C657d06f07aDF3e4c33e46cf0ad",
     "gateway": "bitcoind",
-    "nsig": 1,
     "max_balance": "0.0",
-    "parent": null,
     "blockchain_key": "btc-testnet",
     "status": "disabled",
     "settings": {
