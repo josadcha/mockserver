@@ -23,6 +23,7 @@ Total: 50
         "block_number": 579064,
         "type": "coin",
         "tid": "TIDC953BDF89F",
+        "email": "john@barong.io",
         "updated_at": "2019-06-03T16:11:49+02:00"
     },
     {
@@ -42,6 +43,7 @@ Total: 50
         "block_number": 1643939,
         "type": "coin",
         "tid": "TID3311C71131",
+        "email": "john@barong.io",
         "updated_at": "2019-06-04T16:14:47+02:00"
     },
     {
@@ -61,6 +63,7 @@ Total: 50
         "block_number": 7891566,
         "type": "coin",
         "tid": "TID1F59D9481E",
+        "email": "john@barong.io",
         "updated_at": "2019-06-05T12:38:06+02:00"
     },
     {
@@ -80,6 +83,7 @@ Total: 50
         "block_number": 1081557,
         "type": "coin",
         "tid": "TID211C86E8D2",
+        "email": "john@barong.io",
         "updated_at": "2019-06-05T19:05:39+02:00"
     },
     {
@@ -99,6 +103,7 @@ Total: 50
         "block_number": 7904169,
         "type": "coin",
         "tid": "TID3A89E4A4E3",
+        "email": "john@barong.io",
         "updated_at": "2019-06-06T09:05:17+02:00"
     },
     {
@@ -118,6 +123,7 @@ Total: 50
         "block_number": 7904173,
         "type": "coin",
         "tid": "TIDE44201D453",
+        "email": "john@barong.io",
         "updated_at": "2019-06-06T09:05:20+02:00"
     },
     {
@@ -156,6 +162,7 @@ Total: 50
         "block_number": 7911454,
         "type": "coin",
         "tid": "TIDDA38130A37",
+        "email": "john@barong.io",
         "updated_at": "2019-06-07T15:11:28+02:00"
     },
     {
@@ -175,6 +182,7 @@ Total: 50
         "block_number": 7919644,
         "type": "coin",
         "tid": "TIDB69E35EFE7",
+        "email": "john@barong.io",
         "updated_at": "2019-06-25T08:59:53+02:00"
     },
     {
@@ -194,6 +202,7 @@ Total: 50
         "block_number": 7932456,
         "type": "coin",
         "tid": "TIDF0F760A269",
+        "email": "john@barong.io",
         "updated_at": "2019-06-10T19:26:29+02:00"
     },
     {
@@ -213,6 +222,7 @@ Total: 50
         "block_number": 8001874,
         "type": "coin",
         "tid": "TID16589590DC",
+        "email": "john@barong.io",
         "updated_at": "2019-06-21T15:59:00+02:00"
     },
     {
@@ -232,6 +242,7 @@ Total: 50
         "block_number": 8010225,
         "type": "coin",
         "tid": "TID756069A01A",
+        "email": "john@barong.io",
         "updated_at": "2019-06-22T23:10:38+02:00"
     },
     {
@@ -251,6 +262,7 @@ Total: 50
         "block_number": 8077621,
         "type": "coin",
         "tid": "TIDA73F31C343",
+        "email": "john@barong.io",
         "updated_at": "2019-07-03T11:29:41+02:00"
     },
     {
@@ -269,6 +281,7 @@ Total: 50
         "txout": 102,
         "block_number": 8085542,
         "type": "coin",
+        "email": "john@barong.io",
         "tid": "TIDABF6A91BF9",
         "spread": [
             {
