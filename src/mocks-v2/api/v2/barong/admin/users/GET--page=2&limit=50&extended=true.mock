@@ -16,6 +16,7 @@ Total: 70
         "profile": null,
         "created_at": "2019-04-23T15:18:48Z",
         "updated_at": "2019-04-23T15:18:48Z",
+        "referral_uid": "IDA1DD9A4147",
         "profile": {
             "address": "3 Avenue des Champs Elysees",
             "city": "Paris",
@@ -36,6 +37,7 @@ Total: 70
         "profile": null,
         "created_at": "2019-04-23T15:18:48Z",
         "updated_at": "2019-04-23T15:18:48Z",
+        "referral_uid": "IDA1DD9A4147",
         "profile": {
             "address": "3 Avenue des Champs Elysees",
             "city": "Paris",
@@ -55,6 +57,7 @@ Total: 70
         "state": "pending",
         "profile": null,
         "created_at": "2019-04-23T15:18:48Z",
+        "referral_uid": "IDA1DD9A4147",
         "updated_at": "2019-04-23T15:18:48Z",
         "profile": {
             "address": "3 Avenue des Champs Elysees",

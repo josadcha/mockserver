@@ -16,6 +16,7 @@ Total: 50
     "created_at":"2019-02-25T12:41:14Z",
     "updated_at":"2019-02-25T12:41:14Z",
     "uid": "ID280AAB3CF0",
+    "referral_uid": "IDA1DD9A4147",
     "profile": {
         "address": "3 Avenue des Champs Elysees",
         "city": "Paris",

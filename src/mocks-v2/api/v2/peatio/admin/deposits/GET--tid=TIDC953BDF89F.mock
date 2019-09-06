@@ -4,7 +4,7 @@ access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
 access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
 Access-Control-Expose-Headers: total
 
-{
+[{
     "id": 2,
     "currency": "btc",
     "amount": "0.0081995",
@@ -23,4 +23,4 @@ Access-Control-Expose-Headers: total
     "tid": "TIDC953BDF89F",
     "email": "john@barong.io",
     "updated_at": "2019-06-03T16:11:49+02:00"
-}
+}]

@@ -8,8 +8,8 @@ Total: 50
 [
     {
         "id": 1,
-        "currency": "eth",
-        "type": "coin",
+        "currency": "usd",
+        "type": "fiat",
         "amount": "0.02",
         "fee": "0.01",
         "blockchain_txid": "0xf78aec7dcb8610227a27d5cb13bcf03717e4092a8eb82dad9e3ebdd42343793d",
@@ -25,7 +25,7 @@ Total: 50
         "block_number": 7910372,
         "sum": "0.03",
         "tid": "TID2497ADD166",
-        "uid":"ID873B710D88",
+        "uid":"ID280AAB3CF0",
         "email":"superadmin@barong.io"
     }
 ]
