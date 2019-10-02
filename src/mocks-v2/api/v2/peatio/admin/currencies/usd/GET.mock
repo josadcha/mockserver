@@ -1,0 +1,23 @@
+HTTP/2 201
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+Access-Control-Expose-Headers: total
+Total: 60
+
+
+{
+  "code": "usd",
+  "name": "US Dollar",
+  "symbol": "$",
+  "type": "fiat",
+  "deposit_fee": "0.0",
+  "min_deposit_amount": "0.0",
+  "withdraw_fee": "0.0",
+  "min_withdraw_amount": "0.0",
+  "withdraw_limit_24h": "100.0",
+  "withdraw_limit_72h": "200.0",
+  "base_factor": 1,
+  "precision": 2,
+  "visible": "true"
+}
