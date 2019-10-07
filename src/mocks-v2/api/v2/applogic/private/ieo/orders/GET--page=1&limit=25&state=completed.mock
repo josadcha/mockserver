@@ -1,0 +1,25 @@
+HTTP/2 200
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: total
+Total: 28
+
+[
+    {
+        "id": 9,
+        "sale_pair_id": 1,
+        "uid": "IDA908D454B4",
+        "contribution": "100.0",
+        "executed": "0.0",
+        "refunded": "0.0",
+        "tokens_received": "0.0",
+        "commission_rate": "0.1",
+        "commission_amount": "0.0",
+        "state": "cancelled",
+        "created_at": "2019-10-04T15:15:27.000Z",
+        "updated_at": "2019-10-04T15:20:02.000Z",
+        "tokens_ordered": "900.0"
+    }
+]
